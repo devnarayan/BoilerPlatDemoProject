@@ -1,0 +1,50 @@
+﻿DEBUG 2017-12-17 13:23:15,284 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-12-17 13:23:15,471 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2017-12-17 13:23:15,765 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: demoProject.Migrator.demoProjectMigratorModule, demoProject.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 13:23:15,770 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: demoProject.EntityFrameworkCore.demoProjectEntityFrameworkModule, demoProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 13:23:15,771 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: demoProject.demoProjectCoreModule, demoProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 13:23:15,782 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 13:23:15,782 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 13:23:15,783 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 13:23:15,783 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 13:23:15,784 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 13:23:15,784 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 13:23:15,790 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2017-12-17 13:23:16,232 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: demoProject.EntityFrameworkCore.demoProjectDbContext, demoProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 13:23:17,135 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-12-17 13:23:17,154 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-12-17 13:23:17,167 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2017-12-17 13:23:17,170 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: demoProject
+INFO  2017-12-17 13:23:17,831 [1    ] demoProject.Migrator.Log                 - Host database: Server=localhost; Database=demoProjectDb; Trusted_Connection=True;
+INFO  2017-12-17 13:23:17,833 [1    ] demoProject.Migrator.Log                 - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2017-12-17 13:23:28,311 [1    ] demoProject.Migrator.Log                 - HOST database migration started...
+INFO  2017-12-17 13:23:33,537 [1    ] demoProject.Migrator.Log                 - HOST database migration completed.
+INFO  2017-12-17 13:23:33,537 [1    ] demoProject.Migrator.Log                 - --------------------------------------------------------
+INFO  2017-12-17 13:23:33,619 [1    ] demoProject.Migrator.Log                 - All databases have been migrated.
+DEBUG 2017-12-17 13:23:37,822 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2017-12-17 13:23:37,823 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2017-12-17 17:56:51,736 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-12-17 17:56:52,330 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2017-12-17 17:56:53,971 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: demoProject.Migrator.demoProjectMigratorModule, demoProject.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 17:56:53,980 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: demoProject.EntityFrameworkCore.demoProjectEntityFrameworkModule, demoProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 17:56:53,985 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: demoProject.demoProjectCoreModule, demoProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 17:56:54,018 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 17:56:54,019 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 17:56:54,020 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 17:56:54,021 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 17:56:54,022 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 17:56:54,025 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 17:56:54,034 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2017-12-17 17:56:55,063 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: demoProject.EntityFrameworkCore.demoProjectDbContext, demoProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-17 17:56:56,896 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-12-17 17:56:56,935 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-12-17 17:56:56,957 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2017-12-17 17:56:56,967 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: demoProject
+INFO  2017-12-17 17:56:57,438 [1    ] demoProject.Migrator.Log                 - Host database: Server=localhost; Database=demoProjectDb; Trusted_Connection=True;
+INFO  2017-12-17 17:56:57,438 [1    ] demoProject.Migrator.Log                 - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2017-12-17 17:57:00,312 [1    ] demoProject.Migrator.Log                 - HOST database migration started...
+INFO  2017-12-17 17:57:04,515 [1    ] demoProject.Migrator.Log                 - HOST database migration completed.
+INFO  2017-12-17 17:57:04,515 [1    ] demoProject.Migrator.Log                 - --------------------------------------------------------
+INFO  2017-12-17 17:57:04,634 [1    ] demoProject.Migrator.Log                 - All databases have been migrated.
+DEBUG 2017-12-17 17:57:09,165 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2017-12-17 17:57:09,166 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
